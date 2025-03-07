@@ -1,8 +1,4 @@
-# MentorSarthi 🚀
-
-<div align="center">
-  <img src="https://via.placeholder.com/1200x400?text=MentorSarthi" alt="MentorSarthi Banner" width="100%">
-</div>
+# <span style="color:#4f46e5;">🎓 MentorSarthi</span> 🚀
 
 <p align="center">
   <b>Connecting Mentors with Students & Startups 🤝</b>
